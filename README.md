@@ -1,4 +1,4 @@
-# Password-Cracking-Dictionary-
+# Password-Cracking-Tutorial
 
 ## What is Password cracking?
 In a general sense, password cracking is the process of using an application program to identify and recover passwords from a computer or network resource.
