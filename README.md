@@ -40,7 +40,7 @@ So whats faster?
 
 Well, a dictionary attack is much faster than a brute force attack where success is determined by the password list size. 
 
-## Password dictionaries by skullsecurity.org
+## Password dictionaries + leaked passwords by skullsecurity.org
 
 * John the Ripper	
 * Cain & Abel	
@@ -48,14 +48,7 @@ Well, a dictionary attack is much faster than a brute force attack where success
 * 500 worst passwords	
 * 370 Banned Twitter passwords
 
-
-|| Name  ||	Compressed ||
-||-------|| ---------- ||
-| John the Ripper | john.txt.bz2 (10,934 bytes)
-| Cain & Abel |	cain.txt.bz2 (1,069,968 bytes)
-| Conficker worm	|conficker.txt.bz2 (1411 bytes)
-| 500 worst passwords |	500-worst-passwords.txt.bz2 (1868 bytes)
-|370 Banned Twitter passwords |	twitter-banned.txt.bz2 (1509 bytes)
+Resource can be found here Wiki(2021).https://wiki.skullsecurity.org/index.php/Passwords#Password_dictionaries. Date Accessed:11/12/21
 
 ## Resources (Password creation tools + managers)
 
