@@ -51,8 +51,7 @@ if __name__ == '__main__':
 
 """
 Method 3: WordList
-
-
+Check to see if the hash is included in md5, sha1, sha224, sha256, sha384, sha512.
 """
 def passCrack(inputPass):
     
