@@ -49,7 +49,8 @@ Well, a dictionary attack is much faster than a brute force attack where success
 * 370 Banned Twitter passwords
 
 
-| Name |	Compressed |
+|| Name  ||	Compressed ||
+||-------|| ---------- ||
 | John the Ripper | john.txt.bz2 (10,934 bytes)
 | Cain & Abel |	cain.txt.bz2 (1,069,968 bytes)
 | Conficker worm	|conficker.txt.bz2 (1411 bytes)
