@@ -31,6 +31,12 @@ Nowadays, password crackers can decipher passwords in a matter of days or hours,
 * Enable 2 Factor Autentication to secure your passwords on all your accounts. 
 * Take advantage of password creation tools and managers. 
 
+## Resources (Password creation tools + managers)
+
+DashLane(2021). https://www.dashlane.com/features/password-generator . Date Accessed: 11/12/21
+Howsecureismypasssword(2021). https://howsecureismypassword.net/ . Date Accessed: 11/12/21
+Diceware(2021). https://diceware.dmuth.org/ . Date Accessed: 11/12/21
+
 ![Capture](https://user-images.githubusercontent.com/91548582/145674386-7786b9bd-3aab-45aa-8c40-732f9eb30c82.PNG)
 
 
