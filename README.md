@@ -79,8 +79,9 @@ print(result.hexdigest())
 ```
 ## Output
 
-<img width="475" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145681004-23a9ab1e-01e8-494b-bf9f-bb718d4829dc.PNG">
+Heres what the example output should look like
 
+* The hexadecimal equivalent of hash is : d8578edf8458ce06fbc5bb76a58c5ca4
 
 ## Input
 
@@ -121,7 +122,9 @@ if __name__ == '__main__':
 ```
 ## Output
 
-<img width="260" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145681062-a9000217-e4a7-4205-97d6-593c2f361ea6.PNG">
+Heres what the example output should look like 
+
+* [+] Password has been found: 011584wb
 
 ## Input
 
@@ -157,8 +160,8 @@ if __name__ == '__main__':
 ```
 ## Output
 
-<img width="270" alt="Capture" src="https://user-images.githubusercontent.com/91548582/145681121-84c2c92c-6804-4973-9fd9-7b118d0472e0.PNG">
-
+Heres what the example output should look like 
+* Password has been found: bahamut24ritter
 
 ![Capture](https://user-images.githubusercontent.com/91548582/145674386-7786b9bd-3aab-45aa-8c40-732f9eb30c82.PNG)
 
