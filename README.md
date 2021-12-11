@@ -8,7 +8,7 @@ In a general sense, password cracking is the process of using an application pro
 With this information, malicious actors can undertake a range of criminal activities where they can gain unauthorised access to restricted resources for identity theft and fraud. 
 
 ## What makes a strong password?
-Nowadays, password crackers can decipher passwords in a matter of days or hours, depending on how weak or strong the password is.  To make a password stronger and more difficult to uncover, a plaintext password should adhere to the following rules:
+Nowadays, password crackers can decipher passwords in a matter of days or hours, depending on how weak or strong the password is.  To make a password stronger and more difficult to uncover, a plaintext password should adhere to the following rules!
 
 ### Be at least 12 characters long:
 *  The shorter a password is, the easier and faster it will be cracked.
