@@ -12,8 +12,8 @@ str2hash = "qwerty"
 result = hashlib.md5(str2hash.encode())
   
 # printing the equivalent hexadecimal value.
-print("The hexadecimal equivalent of hash is : ", end ="")
-print(result.hexdigest())
+print "The hexadecimal equivalent of hash is : ", end =""
+print result.hexdigest()
 
 
 """
@@ -41,11 +41,11 @@ def main():
         for word in PASSLIST:
                 guess = hashlib.md5(word.encode('utf-8')).hexdigest()
                 if guess.upper() == HASH or guess.lower() == HASH:
-                        print(f'[+] Password has been found: {word}')
+                        print f'[+] Password has been found: {word}'
                         exit(0)
                 else:
-                        print(f'[-] Guess: {word} incorrect... {guess}')
-        print(f'Password not found in wordlist...')
+                        print f'[-] Guess: {word} incorrect... {guess}'
+        print f'Password not found in wordlist...'
 if __name__ == '__main__':
         main()
 
@@ -60,7 +60,7 @@ def passCrack(inputPass):
     try:
         passFile = open("wordlist.txt", "r", encoding="utf-8")
     except:
-        print(" Oh oh... We could not find the file. Is it the end?")
+        print " Oh oh... We could not find the file. Is it the end?"
 
     for password in passFile:
         
@@ -73,7 +73,7 @@ def passCrack(inputPass):
 ##        digest = hashlib.sha224(enc_Passwrd.strip()).hexdigest().lower()
         
         if digest == inputPass:
-            print("Password has been found: " + password)
+            print "Password has been found: " + password
             
 if __name__ == '__main__':
     #md5 hash
