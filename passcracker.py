@@ -1,8 +1,15 @@
 import hashlib
 
 """
-Method 1: Provide a input and output the hexadecimal equivalent of the encoded value.
+-----------------------------------------------------------------------------------------------------------------------------
+                                                          References:
+NicholasMordecai(2021).https://nicholasmordecai.co.uk/programming/creating-simple-python-md5-cracker/. Date Accessed: 11/12/21
+Geeksforgeeks(2020).https://www.geeksforgeeks.org/md5-hash-python/.Date Accessed: 11/12/21
+-----------------------------------------------------------------------------------------------------------------------------
+"""
 
+"""
+Method 1: Provide a input and output the hexadecimal equivalent of the encoded value.
 """
 # initializing string
 str2hash = "qwerty"
