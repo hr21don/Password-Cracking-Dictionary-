@@ -1,5 +1,7 @@
 import hashlib
-
+import sys
+import time
+from time import sleep
 """
 -----------------------------------------------------------------------------------------------------------------------------
                                                           References:
@@ -7,10 +9,24 @@ NicholasMordecai(2021).https://nicholasmordecai.co.uk/programming/creating-simpl
 Geeksforgeeks(2020).https://www.geeksforgeeks.org/md5-hash-python/.Date Accessed: 11/12/21
 -----------------------------------------------------------------------------------------------------------------------------
 """
+"""
+ToolZilla Starting Files
 
+"""
+flag = 0
+
+title =  "WELCOME To TOOLZILLA PASS CRACKER.... WHY NOT STAY A WHILE?\n"
+for char in title:
+    sleep(0.05)
+    sys.stdout.write(char)
 """
 Method 1: Provide a input and output the hexadecimal equivalent of the encoded value.
 """
+print ('''
+#============================#
+# WELCOME To TOOLZILLA V1    #
+# ===========================#\n''')
+
 # initializing string
 str2hash = "qwerty"
   
@@ -29,6 +45,11 @@ print result.hexdigest()
 Tested on passwrd= '011584wb'
 passwrd_hash= '5378a9d21949ae0ef0956ef7f5284e9d'
 """
+print ('''
+#============================#
+# WELCOME To TOOLZILLA V2    #
+# ===========================#\n''')
+
 HASH = '5378a9d21949ae0ef0956ef7f5284e9d'
 PASSLIST = [
         '011584wb',
@@ -60,6 +81,10 @@ if __name__ == '__main__':
 Method 3: WordList
 Check to see if the hash is included in md5, sha1, sha224, sha256, sha384, sha512.
 """
+print ('''
+#============================#
+# WELCOME To TOOLZILLA V3    #
+# ===========================#\n''')
 def passCrack(inputPass):
     
     #file=open(filename,errors="ignore")
