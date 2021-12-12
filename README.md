@@ -58,6 +58,8 @@ Diceware(2021). https://diceware.dmuth.org/ . Date Accessed: 11/12/21
 
 ## Lets Build our own || I/O + Testing 
 
+First, follow the installation instruction at the bottom of the page and grab the starting files! 
+
 ## Input
 
 ```
@@ -166,7 +168,6 @@ Heres what the example output should look like
 ## Installation
 
 Git clone repo from my github page.
-
 
 ![Capture](https://user-images.githubusercontent.com/91548582/145674386-7786b9bd-3aab-45aa-8c40-732f9eb30c82.PNG)
 
