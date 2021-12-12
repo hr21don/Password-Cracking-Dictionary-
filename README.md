@@ -163,6 +163,11 @@ if __name__ == '__main__':
 Heres what the example output should look like 
 * Password has been found: bahamut24ritter
 
+## Installation
+
+Git clone repo from my github page.
+
+
 ![Capture](https://user-images.githubusercontent.com/91548582/145674386-7786b9bd-3aab-45aa-8c40-732f9eb30c82.PNG)
 
 
